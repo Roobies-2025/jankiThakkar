@@ -4,5 +4,5 @@
 
 | Exercise       |  Link                                                                |
 |----------------|----------------------------------------------------------------------|
-|Django Exercise | [Link] |
+|Django Exercise | [Link]https://github.com/jankithakkar-aub/JobPortal |
 | DBMS Exercise  | [Link]          |
